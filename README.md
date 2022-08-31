@@ -5,7 +5,7 @@
   </a>
 </h1>
 <code>
-  Hi,<b>I’m Aji</b>
+  Hi,<b>I’m Ajee</b>
 I’m interested in designing & developing cool things,currently learning JavaScript.Reach me @gitAji.
 </code>
 <h2>Connect Me</h2>
