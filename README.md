@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=popins&size=25&pause=1000&color=37ABFF&background=68E7FF00&width=435&lines=Greetings!+)](https://git.io/typing-svg)
 
 <code><b>I’m Ajee</b>
-I’m interested in designing & developing cool things,currently seeking new opportunities to apply my skills and expertise in design and development. If you have any job openings or collaboration opportunities, please don't hesitate to<a href="mailto:info@aone.no"> EmailMe</a>.</code>
+I’m interested in designing & developing cool things,currently seeking new opportunities to apply my skills in design and development. Please don't hesitate to<a href="mailto:info@aone.no"> EmailMe</a>.</code>
 
 
 
